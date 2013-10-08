@@ -3,7 +3,6 @@
 <title>Pizzerias y Lomiterias de Cordoba capital. Delivery de Pizzas Lomitos y Empanadas</title>
 <link href="style.css" rel="stylesheet" type="text/css" />
 <META name="title" content="pizzerias y lomiterias en Cordoba capital">
-<meta name="verify-v1" content="Z84lqrx8mpJjXjh1gX9ardND7AP0LUBLwFYEKoHGBeY=" />
 <META name="description" content="Pizzas lomitos empanadas sandwiches comida mexicana tortas. Directorio con los locales en Cordoba capital">
 <META name="keywords" content="delivery, comida rapida, fast-food, envios a domicilio, cordoba capital">
 <meta HTTP-EQUIV="keywords" CONTENT="cordoba, pizza, pizzas, lomito, lomitos, empanada, empanadas, delivery, bebidas, comida, argentina">
@@ -25,7 +24,7 @@
 <style type="text/css">
 <!--
 body {
-	background-color: #CCFFFF;
+	background-color: #CCFFFF;	
 }
 -->
 </style></head>
