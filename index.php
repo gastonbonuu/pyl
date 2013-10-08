@@ -38,6 +38,11 @@ body {
 <p align="center">
 <?php
 include('establecer_conexion.php');
+/*
+aca comentamos todo 
+el codigo que tenemos en php 
+para probar esto de GIT
+*/
 include("real_ip.php");
 require_once('searchkeys.class.php');
 
