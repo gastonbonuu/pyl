@@ -5,7 +5,7 @@
 <META name="title" content="pizzerias y lomiterias en Cordoba capital">
 <META name="description" content="Pizzas lomitos empanadas sandwiches comida mexicana tortas. Directorio con los locales en Cordoba capital">
 <META name="keywords" content="delivery, comida rapida, fast-food, envios a domicilio, cordoba capital">
-<meta HTTP-EQUIV="keywords" CONTENT="cordoba, pizza, pizzas, lomito, lomitos, empanada, empanadas, delivery, bebidas, comida, argentina">
+<meta HTTP-EQUIV="keywords" CONTENT="ahora, vendemos, tortas, sanguches, y, mas cosas">
 <meta name="revisit" content="15 days">
 <meta name="revisit-after" content="15 days">
 <meta name="classification" content="Internet">
@@ -36,6 +36,8 @@ body {
 <p align="center"><strong><font face="Geneva, Arial, Helvetica, sans-serif">Proximamente podras ordenar tu pedido online y recibirlo en la comodidad de tu hogar! Solo en los mejores locales. </font></strong></p>
 <p align="center" class="titulopublicacion"><strong><font face="Geneva, Arial, Helvetica, sans-serif"><a href="http://www.pizzasylomitos.com.ar/formulario_carga.php">Agrega tu local GRATIS</a></font></strong> !!!
 <p align="center">
+
+
 <?php
 include('establecer_conexion.php');
 include("real_ip.php");
